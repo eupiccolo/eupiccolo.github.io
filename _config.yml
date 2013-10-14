@@ -1,6 +1,5 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: eupiccolo.github.io
 author: eupiccolo 
 pygments: true
 safe: true

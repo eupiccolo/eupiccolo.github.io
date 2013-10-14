@@ -5,4 +5,3 @@ pygments: true
 safe: true
 paginate: 16
 auto: true
-baseurl: /eupiccolo.github.io

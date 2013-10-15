@@ -3,5 +3,4 @@ permalink: /:year/:month/:day/:title/
 pygments: true
 safe: true
 auto: true
-url: eupiccolo.github.io/
 

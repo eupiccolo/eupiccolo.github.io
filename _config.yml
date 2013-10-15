@@ -3,4 +3,4 @@ permalink: /:year/:month/:day/:title/
 pygments: true
 safe: true
 auto: true
-baseurl: {{site.baseurl}}
+url: eupiccolo.github.io 

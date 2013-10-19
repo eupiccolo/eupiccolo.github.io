@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 欢迎来到我的博客！ 
+tagline: 我是一名honker新手
 ---
 {% include JB/setup %}
 

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Welcome 
-tagline: 我是一名honker新手
+tagline: 做一名有态度的逗比
 ---
 {% include JB/setup %}
 
 #欢迎
 
-我是`Eupiccolo`，是一名喜爱编程的少年，崇尚算法，梦想是成为一名伟大的honker。
+我是`Eupiccolo`，是一名喜爱编程的少年，崇尚算法，梦想是成为一名伟大的`逗比`。
 
 {% highlight c++ %}
 #include <stdio.h>

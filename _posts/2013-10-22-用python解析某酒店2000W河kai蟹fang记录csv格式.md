@@ -6,7 +6,7 @@
 ##解决方案
 
 ###search.py
-{% highlight linenos %}
+{% highlight py linenos %}
 #!ecoding=utf-8
 import csv
 import sys
@@ -39,7 +39,7 @@ fpw.close()
 想一次性查多人？我们写个批处理脚本吧！
 
 ###batch.py
-{% highlight linenos %} 
+{% highlight py linenos %} 
 import os
 
 fpr = open('namelist.txt', 'r')
@@ -56,7 +56,7 @@ print "done"
 这样，只要在 namelist.txt 中写下待查人的名单，运行脚本即可进行批量查询，并输出到XX.res 中。
 
 ###namelist.txt
-{% highlight linenos%} 
+{% highlight c linenos%} 
 张三
 李四
 王五

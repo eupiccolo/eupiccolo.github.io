@@ -9,7 +9,7 @@ tagline: 做一名有态度的逗比
 
 我是`Eupiccolo`，是一名喜爱编程的少年，崇尚算法，梦想是成为一名伟大的`逗比`。
 
-{% highlight c++ %}
+{% highlight c++ linenos %}
 #include <stdio.h>
 
 int main() {

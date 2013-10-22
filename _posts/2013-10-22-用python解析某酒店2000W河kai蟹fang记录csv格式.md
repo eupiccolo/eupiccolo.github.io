@@ -42,7 +42,6 @@ fpw.close()
 这样，只要执行命令 `python search.py 张三` 即可输出名为张三的人的全部河(kai)蟹(fang)记录，并输出到文件 `张三.res` 中
 
 想一次性查多人？我们写个批处理脚本吧！
-
 ###batch.py
 {% highlight py linenos %} 
 import os

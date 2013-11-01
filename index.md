@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome 
-tagline: 做一名有态度的逗比
+tagline: 在你想要放弃的那一刻，想想为什么当初坚持走到了这里
 ---
 {% include JB/setup %}
 

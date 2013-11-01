@@ -12,7 +12,7 @@ comments : no
 
 安装完毕，chrome右上角出现一个小地球图标
 
-4.jpg
+![icon]({{site.url}}/media/image/goagent/4.jpg)
 
 进 [GAE](https://appengine.google.com/)登陆google账户，出现如下页面
 

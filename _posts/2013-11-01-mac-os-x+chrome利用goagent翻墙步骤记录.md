@@ -16,7 +16,7 @@ comments : no
 
 进 [GAE](https://appengine.google.com/)登陆google账户，出现如下页面
 
-![icon]({{site.url}}/media/image/goagent/1.jpg)
+![1.jpg]({{site.url}}/media/image/goagent/1.jpg)
 
 点Create Application，进入短信验证账户页面
 
